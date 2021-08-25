@@ -50,6 +50,16 @@
     padding: 17px 110px;
     margin-top: 20px;
   }
+  .try span{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.267857px;
+    color: #FFFFFF;
+  }
   .claim-item{
   }
   .claim{
@@ -87,6 +97,11 @@
     height: 56px;
     margin-top: 40px;
   }
+  .fname input:hover{
+    border: 2px solid #5E54A4;
+    box-sizing: border-box;
+    border-radius: 5px;
+  }
   
   .last-name input{
     border: none;
@@ -97,6 +112,11 @@
     width: 460px;
     height: 56px;
     margin-top: 40px;
+  }
+  .last-name input:hover{
+    border: 2px solid #5E54A4;
+    box-sizing: border-box;
+    border-radius: 5px;
   }
   
   
@@ -111,6 +131,11 @@
     height: 56px;
     margin-top: 40px;  }
     
+    .email input:hover{
+      border: 2px solid #5E54A4;
+      box-sizing: border-box;
+      border-radius: 5px;
+    }
     
     
     
@@ -123,6 +148,13 @@
       width: 460px;
       height: 56px;
       margin-top: 40px;  }
+      
+      .password input:hover{
+        border: 2px solid #5E54A4;
+        box-sizing: border-box;
+        border-radius: 5px;
+      }
+      
       .forms-footer{
         font-family: Poppins;
         font-style: normal;
@@ -139,7 +171,7 @@
         font-size: 11px;
         line-height: 26px;
         text-align: center;
-       text-decoration: none;
+        text-decoration: none;
         color: #FF7979;
       }
       
